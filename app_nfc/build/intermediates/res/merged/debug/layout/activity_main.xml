@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/mNote"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:ems="10" 
+            android:text="">
+
+            <requestFocus />
+        </EditText>
+        
+        <Button
+            android:id="@+id/mBtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="寫入到NFC標籤" />
+
+        <TextView
+            android:layout_margin="20dp"
+            android:id="@+id/mNFCContent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="80dp"
+            android:textColor="#FFFFFF00"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/mNFCImage"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/icon" />
+
+    </LinearLayout>

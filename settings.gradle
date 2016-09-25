@@ -1,0 +1,1 @@
+include ':app', ':app_whoscall', ':app_fragment', ':app_drawer', ':app_weather', ':app_widget', ':app_nfc', ':app_iconnumber', ':app_recycleview', ':app_youtube', ':sensor_list', ':seneor_proximity', ':sensor_light', ':sensor_accelerometer', ':app_firebase_chat'

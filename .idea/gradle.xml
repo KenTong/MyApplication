@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app_drawer" />
+            <option value="$PROJECT_DIR$/app_firebase_chat" />
+            <option value="$PROJECT_DIR$/app_fragment" />
+            <option value="$PROJECT_DIR$/app_iconnumber" />
+            <option value="$PROJECT_DIR$/app_nfc" />
+            <option value="$PROJECT_DIR$/app_recycleview" />
+            <option value="$PROJECT_DIR$/app_weather" />
+            <option value="$PROJECT_DIR$/app_whoscall" />
+            <option value="$PROJECT_DIR$/app_widget" />
+            <option value="$PROJECT_DIR$/app_youtube" />
+            <option value="$PROJECT_DIR$/seneor_proximity" />
+            <option value="$PROJECT_DIR$/sensor_accelerometer" />
+            <option value="$PROJECT_DIR$/sensor_light" />
+            <option value="$PROJECT_DIR$/sensor_list" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app_drawer" />
+            <option value="$PROJECT_DIR$/app_firebase_chat" />
+            <option value="$PROJECT_DIR$/app_fragment" />
+            <option value="$PROJECT_DIR$/app_iconnumber" />
+            <option value="$PROJECT_DIR$/app_nfc" />
+            <option value="$PROJECT_DIR$/app_recycleview" />
+            <option value="$PROJECT_DIR$/app_weather" />
+            <option value="$PROJECT_DIR$/app_whoscall" />
+            <option value="$PROJECT_DIR$/app_widget" />
+            <option value="$PROJECT_DIR$/app_youtube" />
+            <option value="$PROJECT_DIR$/seneor_proximity" />
+            <option value="$PROJECT_DIR$/sensor_accelerometer" />
+            <option value="$PROJECT_DIR$/sensor_light" />
+            <option value="$PROJECT_DIR$/sensor_list" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

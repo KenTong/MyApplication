@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_drawer/app_drawer.iml" filepath="$PROJECT_DIR$/app_drawer/app_drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_firebase_chat/app_firebase_chat.iml" filepath="$PROJECT_DIR$/app_firebase_chat/app_firebase_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_fragment/app_fragment.iml" filepath="$PROJECT_DIR$/app_fragment/app_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_iconnumber/app_iconnumber.iml" filepath="$PROJECT_DIR$/app_iconnumber/app_iconnumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_nfc/app_nfc.iml" filepath="$PROJECT_DIR$/app_nfc/app_nfc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_recycleview/app_recycleview.iml" filepath="$PROJECT_DIR$/app_recycleview/app_recycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_weather/app_weather.iml" filepath="$PROJECT_DIR$/app_weather/app_weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_whoscall/app_whoscall.iml" filepath="$PROJECT_DIR$/app_whoscall/app_whoscall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_widget/app_widget.iml" filepath="$PROJECT_DIR$/app_widget/app_widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_youtube/app_youtube.iml" filepath="$PROJECT_DIR$/app_youtube/app_youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seneor_proximity/seneor_proximity.iml" filepath="$PROJECT_DIR$/seneor_proximity/seneor_proximity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor_accelerometer/sensor_accelerometer.iml" filepath="$PROJECT_DIR$/sensor_accelerometer/sensor_accelerometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor_light/sensor_light.iml" filepath="$PROJECT_DIR$/sensor_light/sensor_light.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor_list/sensor_list.iml" filepath="$PROJECT_DIR$/sensor_list/sensor_list.iml" />
+    </modules>
+  </component>
+</project>
